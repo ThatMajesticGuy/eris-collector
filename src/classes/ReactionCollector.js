@@ -1,4 +1,4 @@
-const Base = require("./baseCollector");
+const Base = require("./baseCollector.js");
 
 class ReactionCollector extends Base {
 
